@@ -4,13 +4,13 @@ This project ties to interpret the hand gestures made in American Sign Language 
 
 # Technology used
 
-Tensorflow
-keras
+Tensorflow,
+keras,
 opencv
 
 # Concepts
 
-Deep Learning
-Computer Vision
-Python  Programming
+Deep Learning,
+Computer Vision,
+Python  Programming,
 
